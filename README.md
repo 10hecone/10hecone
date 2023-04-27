@@ -22,7 +22,8 @@ Actualy :
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=10hecone&show_icons=true&theme=dracula"/>
 </a>
 
-<figure><embed src="https://wakatime.com/share/@91debd5d-d3a4-4d8c-874f-82106c1b1ddd/9095a3f2-074e-4d98-abc9-b77f40207f0f.svg"></embed></figure>
+<h3>Coding Activity : </h3>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@91debd5d-d3a4-4d8c-874f-82106c1b1ddd/43ad19b3-57af-48fb-b031-6312f1cbc5ff.png" /></a>
 
 <h3 align="left">💻Languages and Tools: </h3>
 
