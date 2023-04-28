@@ -23,7 +23,7 @@ Actualy :
 </a>
 
 <h3>Coding Activity : </h3>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@91debd5d-d3a4-4d8c-874f-82106c1b1ddd/43ad19b3-57af-48fb-b031-6312f1cbc5ff.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@91debd5d-d3a4-4d8c-874f-82106c1b1ddd/dbf964a4-e9c0-4b99-afd3-a1886eaf90d2.png" /></a>
 
 <h3 align="left">💻Languages and Tools: </h3>
 
