@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @10hecone</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+javascript;coffe+addict;js+for+life">
+    <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer;coffe+addict;ts+for+life">
 </p>
 
 Actualy :
